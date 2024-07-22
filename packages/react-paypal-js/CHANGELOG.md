@@ -1,5 +1,13 @@
 # Changelog
 
+## 8.5.1
+
+### Patch Changes
+
+-   543fa08: Add button style borderRadius type
+-   Updated dependencies [543fa08]
+    -   @paypal/paypal-js@8.1.1
+
 ## 8.5.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.1.1
+
+### Patch Changes
+
+-   543fa08: Add button style borderRadius type
+
 ## 8.1.0
 
 ### Minor Changes
